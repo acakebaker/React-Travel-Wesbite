@@ -82,10 +82,6 @@ body {
 }
 
 @media screen and (max-width: 960px) {
-   .NavbarItems {
-      position: relative;
-   }
-
    .nav-menu {
       height: calc(100vh - 80px);
       width: 100%;
